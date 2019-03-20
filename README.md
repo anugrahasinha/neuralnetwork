@@ -1,6 +1,8 @@
 ## Neural Network
+
 **Author : Anugraha Sinha**
-**Email  : anugraha[dot]sinha[at]gmail[dot]com
+
+**Email  : anugraha[dot]sinha[at]gmail[dot]com**
 
 
 ### Library information
