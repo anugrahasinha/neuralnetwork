@@ -41,4 +41,4 @@ This involves differentiation of loss function with respect to individual weight
   - Advance optimization technique/algorithms like Adam Optimization.
   
 #### Results
-Using MNIST dataset (subset of it - only 5000 images as training data) we can see that network is able to understand the inherent information hidden in the pixels of images and build a fairly acceptable model with close to 84% accuracy. The code is robust enough to be trained further if computing resources and time is available.
+Using MNIST dataset (subset of it - only 5000 images as training data) we can see that network is able to understand the inherent information hidden in the pixels of images and build a fairly acceptable model with close to 88% (training accuracy) and 87% (test accuracy). The code is robust enough to be trained further if computing resources and time is available.
