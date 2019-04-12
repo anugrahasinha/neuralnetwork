@@ -7,6 +7,11 @@ In this code we will implement an L-Layered Neural Network (ANN) and train it on
 
 **Email : anugraha[dot]sinha[at]gmail[dot]com**
 
+**Note** : 
+Github's notebook view may stagnate. Use the link below for ease of viewage:
+
+[numpy_based_ann_raw](https://nbviewer.jupyter.org/github/anugrahasinha/neuralnetwork/blob/master/numpy_based_ann_raw/numpy_based_ann_raw.ipynb)
+
 ### Background
 There are many libraries available for building neural networks and its derivatives (like CNN, RNN, LSTM, GRU etc.). However, the core concept (forward propogation and backward propagation) is generally hidden behind the implementation of these libraries. 
 It is important to understand the background mathematics which leads to results we see from neural networks. This code tries to show the background calculations involved in neural network (Simple ANN - Artificial Neural Networks).
